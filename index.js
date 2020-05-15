@@ -18,7 +18,7 @@ const KEYWORDS = [
   "dialysis",
   "direct care",
   "direct health",
-  "direct support"
+  "direct support",
   "dsp",
   "emergency room tech",
   "emergency tech",
