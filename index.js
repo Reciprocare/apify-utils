@@ -29,7 +29,7 @@ const KEYWORDS = [
   "health tech",
   "hha",
   "home aide",
-  "home care
+  "home care",
   "home health",
   "homemaker",
   "hospice",
